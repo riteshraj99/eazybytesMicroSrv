@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+cards:
+  message: "Welcome to EazyBank cards related local APIs "
+  contactDetails:
+    name: "local Rit - Developer"
+    email: "ritlocal@eazybank.com"
+  onCallSupport:
+    - (555) 555-8261
+    - (555) 523-8463

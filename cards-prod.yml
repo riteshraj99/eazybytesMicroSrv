@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+cards:
+  message: "Welcome to EazyBank cards related PROD APIs "
+  contactDetails:
+    name: "Prod Rit - Developer"
+    email: "ritprod@eazybank.com"
+  onCallSupport:
+    - (555) 555-8261
+    - (555) 523-8463

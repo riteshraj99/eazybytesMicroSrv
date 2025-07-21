@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to EazyBank accounts related QA APIs "
+  contactDetails:
+    name: "Ritesh Yo - Developer"
+    email: "ritesh@eazybank.com"
+  onCallSupport:
+    - (555) 555-9999
+    - (555) 523-8888
