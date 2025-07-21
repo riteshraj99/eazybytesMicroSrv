@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to EazyBank accounts related PROD APIs "
   contactDetails:
     name: "Prod Rit - Developer"
-    email: "ritprod@eazybank.com"
+    email: "{cipher}9741e7e7dedd40c39858709f1c7e0f2c11adc68676548cdadf9019a40f568fe4542b0ee588099420399e0480a0b72699"
   onCallSupport:
     - (555) 555-8261
     - (555) 523-8463
