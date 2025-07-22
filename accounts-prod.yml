@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related PROD APIs "
+  message: "Welcome to EazyBank accounts related PROD docker APIs "
   contactDetails:
     name: "Prod Rit - Developer"
     email: "{cipher}9741e7e7dedd40c39858709f1c7e0f2c11adc68676548cdadf9019a40f568fe4542b0ee588099420399e0480a0b72699"
